@@ -10,7 +10,9 @@ external_link: ""
 url_slides: ""
 subtitle: MSc Thesis Project, 2017-2019
 tags:
-  - Deep Learning
+  - Remediation
+  - Tailings
+  - Sudbury
 links:
   - icon: Book
     icon_pack: ai
