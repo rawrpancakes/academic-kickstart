@@ -49,4 +49,4 @@ highlight_name: true
 ---
 Kimber Munford's research focuses on the remediation of contaminated environments using plants, microbes, and chemical amendments. Kimber is currently working on a project investigating the use of agricultural microbial amendments for remediating mine tailings. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Munford_Kimber_W22.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/munford_kimber_W22.pdf" "newtab" >}}CV{{< /staticref >}}.
