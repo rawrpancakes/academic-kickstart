@@ -1,79 +1,71 @@
 ---
-title: "An example conference paper"
-
-# Authors
-# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
-# and it will be replaced with their full name and linked to their profile.
+abstract: Facilitating the establishment of native pioneer plant species on mine
+  tailings with inherent metal and/or acid tolerance is important to speed up
+  natural succession at minimal cost, especially in remote areas where
+  phytoremediation can be labor intensive. We investigated vegetation community
+  dynamics after ∼48 years of succession along two legacy Ni–Cu mine tailings
+  and waste rock deposits in the Sudbury Basin, Ontario, Canada with and without
+  various site amendments (i.e. liming and fertilization) and planting.
+  Metal/acid tolerant pioneer plants (Betula papyrifera, Populus tremuloides,
+  Pohlia nutans) appeared to facilitate the establishment of less tolerant
+  species. Conifers and nitrogen-fixers less tolerant to site conditions were
+  planted at the fully amended (limed, fertilized, planted) mine tailings site
+  in the 1970s, but conifers were not propagating at the site or facilitating
+  understory succession. The planted nitrogen-fixing leguminous species Lotus
+  corniculatus was, however, associated with increased diversity. These findings
+  have implications for long-term reclamation strategies in acidic mine waste
+  deposits utilizing native species, as primary colonizing tree species are only
+  recently emerging as candidates for phytoremediation.
+slides: ""
+url_pdf: ""
+publication_types:
+  - "2"
 authors:
-- admin
-- Robert Ford
-
-# Author notes (optional)
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
-
-date: "2013-07-01T00:00:00Z"
-doi: ""
-
-# Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
-
-# Publication type.
-# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
-# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent
-publication_types: ["1"]
-
-# Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
-
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
-
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
-
-tags: []
-
-# Display this page in the Featured widget?
+  - Munford
+  - Kimber E.
+  - Asemaninejad
+  - A.
+  - Basiliko
+  - N.
+  - Nadia
+  - C.S.
+  - Glasauer
+  - S.
+  - Mcgarry
+  - S.
+  - Watmough
+  - S.A.
+author_notes: []
+publication: International Journal of Phytoremediation
+summary: Novelty statement The potential for native species to act as
+  facilitators for vegetation colonization has rarely been investigated on
+  tailings, despite wide use in remediation of less toxic sites. This study
+  provides a retrospective of over 40 years of plant growth following initial
+  treatment of toxic tailings. We observed that regardless of tailings
+  geochemical conditions, acid/metal tolerant pioneer plants were facilitating
+  ecological succession on acidic Ni-Cu mine tailings sites.
+url_dataset: ""
+url_project: ""
+publication_short: ""
+url_source: ""
+url_video: ""
+title: Native plants facilitate vegetation succession on amended and unamended
+  mine tailings
+doi: "https://doi.org/10.1080/15226514.2021.1987382 "
 featured: true
-
-# Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
-
-url_pdf: ''
-url_code: ''
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+tags: []
+projects:
+  - Patterns of Vegetation Succession on Nickel-Copper Mine Tailings near Sudbury
+  - Ontario
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: ""
   focal_point: ""
   preview_only: false
-
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
-projects:
-- example
-
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
-slides: example
+date: 2022-03-15T17:39:30.878Z
+url_slides: ""
+publishDate: 2017-01-01T00:00:00Z
+url_poster: ""
+url_code: ""
 ---
 
 {{% callout note %}}
