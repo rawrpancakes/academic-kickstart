@@ -19,6 +19,8 @@ links:
     icon_pack: ai
     name: Thesis
     url: http://digitalcollections.trentu.ca/objects/etd-787
+  - name: Summary slides
+    url: https://kimbermunford.netlify.app/talk/example-talk/
 image:
   caption: ""
   focal_point: ""
