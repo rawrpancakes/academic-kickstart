@@ -20,7 +20,7 @@ links:
     name: Thesis
     url: http://digitalcollections.trentu.ca/objects/etd-787
   - name: Summary slides
-    url: /content/slides/MSc_proj
+    url: content/slides/MSc_proj
 image:
   caption: ""
   focal_point: ""
