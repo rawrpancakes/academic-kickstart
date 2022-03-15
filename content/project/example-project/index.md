@@ -20,7 +20,7 @@ links:
     name: Thesis
     url: http://digitalcollections.trentu.ca/objects/etd-787
   - name: Summary slides
-    url: https://kimbermunford.netlify.app/talk/example-talk/
+    url: https://kimbermunford.netlify.app/slides/
 image:
   caption: ""
   focal_point: ""
