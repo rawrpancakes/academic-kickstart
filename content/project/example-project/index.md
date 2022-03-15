@@ -3,7 +3,8 @@ slides: example
 url_pdf: ""
 title: Patterns of Vegetation Succession on Nickel-Copper Mine Tailings Near
   Sudbury, Ontario
-summary: An example of using the in-built project page.
+summary: "**Goal:** To assess patterns of natural vegetation succession on toxic
+  mine tailings in relation to tailings biogeochemistry"
 url_video: ""
 date: 2022-03-15T18:03:06.988Z
 external_link: ""
