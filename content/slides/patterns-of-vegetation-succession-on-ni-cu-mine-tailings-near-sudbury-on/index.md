@@ -1,5 +1,5 @@
 ---
-title: Patterns of Vegetation Succession on Ni-Cu Mine Tailings near Sudbury, ON
+title: MSc_proj
 summary: Summary of project
 authors: []
 tags: []
