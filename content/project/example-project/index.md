@@ -20,7 +20,7 @@ links:
     name: Thesis
     url: http://digitalcollections.trentu.ca/objects/etd-787
   - name: Summary slides
-    url: https://kimbermunford.netlify.app/slides/
+    url: /content/slides/patterns-of-vegetation-succession-on-ni-cu-mine-tailings-near-sudbury-on/
 image:
   caption: ""
   focal_point: ""
