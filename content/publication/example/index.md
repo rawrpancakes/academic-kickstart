@@ -52,7 +52,7 @@ url_video: ""
 title: Native plants facilitate vegetation succession on amended and unamended
   mine tailings
 doi: "https://doi.org/10.1080/15226514.2021.1987382 "
-featured: false
+featured: true
 tags: []
 projects:
   - Patterns of Vegetation Succession on Nickel-Copper Mine Tailings near Sudbury
