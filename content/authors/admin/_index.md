@@ -1,6 +1,6 @@
 ---
 title: Kimber Munford
-role: Environmental Science PhD Candidate at University of Guelph
+role: Environmental Science PhD Candidate
 bio: Environmental Science PhD Candidate with background in freshwater and
   terrestrial ecology. I'm passionate about investigating the interconnectivity
   of all living systems, particularly in contaminated environments.
